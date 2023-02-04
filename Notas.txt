@@ -1,0 +1,22 @@
+https://docs.aws.amazon.com/greengrass/v1/developerguide/what-is-gg.html
+
+https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+
+https://aws.amazon.com/es/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all#Free_Tier_details
+
+https://learning.edx.org/course/course-v1:AWS+OTP-AWSD5+3T2021/home
+
+https://www.youtube.com/watch?v=rLswsgz77I0&t=4s
+
+https://www.youtube.com/watch?v=rLswsgz77I0&t=4s
+
+Raspberry
+
+1.- Instalar el VNC viewer tu laptop
+2.- Crear una vnc para asociar tods tus equipos. 
+3.- Instalar en la raspberry el VCN server
+4.- Acceder con tu cuenta VNC en la raspebrry
+5.- Desde tu laptop te conectas a la raspberry.
+
+Comando para dar permisos a las carpetas
+sudo chmod 755 /greengrass/v2/logs
